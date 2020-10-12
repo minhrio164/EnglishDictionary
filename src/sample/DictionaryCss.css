@@ -1,0 +1,23 @@
+.TextField1{
+    -fx-text-fill: aliceblue;
+    -fx-background-color: black;
+}
+.buttonAdd{
+    -fx-graphic:url("/sample/image/plus-01.png") ;
+    -fx-graphic-size : 1px 1px ;
+    -fx-background-color: #000000;
+    -fx-text-fill:#7ba8fd ;
+}
+.buttonSub{
+    -fx-graphic:url("/sample/image/u-plus-01.png") ;
+    -fx-graphic-size : 1px 1px ;
+    -fx-background-color: #000000;
+    -fx-text-fill:#7ba8fd ;
+}
+.buttonRepair {
+    -fx-graphic: url("/sample/image/repair-01.png");
+    -fx-graphic-size: 1px 1px;
+    -fx-background-color: #000000;
+    -fx-text-fill: #7ba8fd;
+}
+
